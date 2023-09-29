@@ -1,0 +1,20 @@
+.orgSection {
+    width: 100%;
+    
+        
+}
+
+.title {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 24px;
+    background-color: black;
+    text-align: center;
+}
+
+video {
+    margin: 0;
+    width: 100%;
+}
+
