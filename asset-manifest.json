@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aluraflix/static/css/main.132e060c.css",
-    "main.js": "/aluraflix/static/js/main.d57cd1ec.js",
+    "main.js": "/aluraflix/static/js/main.611c90c5.js",
     "static/js/787.b790015c.chunk.js": "/aluraflix/static/js/787.b790015c.chunk.js",
     "index.html": "/aluraflix/index.html",
     "main.132e060c.css.map": "/aluraflix/static/css/main.132e060c.css.map",
-    "main.d57cd1ec.js.map": "/aluraflix/static/js/main.d57cd1ec.js.map",
+    "main.611c90c5.js.map": "/aluraflix/static/js/main.611c90c5.js.map",
     "787.b790015c.chunk.js.map": "/aluraflix/static/js/787.b790015c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.132e060c.css",
-    "static/js/main.d57cd1ec.js"
+    "static/js/main.611c90c5.js"
   ]
 }
